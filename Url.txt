@@ -3,10 +3,9 @@ Hochuzhit.com
 signatures.php
 Net.WebClient
 email.gov.in
-Net.ServicePointManager
-net.webclient
-Kkdn7862Jj6h2oDASGmpqU4Qq4q4.php
-Net.SecurityProtocolType
-comredira3cf7ed34f8.php
-SystemProtector.pdb
-System.Net.ServicePointManager
+bugiplaysec.com
+marakanas.com
+ocs-romastassec.com
+ocspdep.com
+security-ocsp.com
+troadsecow.com
